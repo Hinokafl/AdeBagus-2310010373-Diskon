@@ -18,4 +18,6 @@ public class AplikasiDiskon {
         });
     }
 }
-//Maaf code Sebelumnya tanpa jFrame Form Pa, Ini link Formnya https://github.com/Hinokafl/AdeBagus-2310010373-Diskon/blob/main/AplikasiDiskonFrame.java
+//Maaf code Sebelumnya tanpa jFrame Form Pa, Ini link Framenya :
+https://github.com/Hinokafl/AdeBagus-2310010373-Diskon/blob/main/AplikasiDiskonFrame.java
+
